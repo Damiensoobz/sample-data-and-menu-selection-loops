@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OX9pUB38guS/3kmwba96Wp4Tr3ZYaNfvMC5qh3hdmo8O3g/uaQ36S0se7plXmU08D9MsK8ipklUOKwkuJb5GGQ==",
+  "dgSpecHash": "t+8+rqwlIwn4hIHejxwyb4RB+jvXFoeXVbSIe+OXqaC0BUC59S2YCASOMmi7IXQySzn0zvmwJ5XivlWbhHrvig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Damien\\Other Projects\\CsharpProjects\\sample-data-and-menu-selection-loops\\Starter.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\CCI39812\\Desktop\\Other\\Git Repos\\sample-data-and-menu-selection-loops\\Starter.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

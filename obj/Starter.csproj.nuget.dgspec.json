@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Damien\\Other Projects\\CsharpProjects\\sample-data-and-menu-selection-loops\\Starter.csproj": {}
+    "C:\\Users\\CCI39812\\Desktop\\Other\\Git Repos\\sample-data-and-menu-selection-loops\\Starter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Damien\\Other Projects\\CsharpProjects\\sample-data-and-menu-selection-loops\\Starter.csproj": {
+    "C:\\Users\\CCI39812\\Desktop\\Other\\Git Repos\\sample-data-and-menu-selection-loops\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Damien\\Other Projects\\CsharpProjects\\sample-data-and-menu-selection-loops\\Starter.csproj",
+        "projectUniqueName": "C:\\Users\\CCI39812\\Desktop\\Other\\Git Repos\\sample-data-and-menu-selection-loops\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Damien\\Other Projects\\CsharpProjects\\sample-data-and-menu-selection-loops\\Starter.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Damien\\Other Projects\\CsharpProjects\\sample-data-and-menu-selection-loops\\obj\\",
+        "projectPath": "C:\\Users\\CCI39812\\Desktop\\Other\\Git Repos\\sample-data-and-menu-selection-loops\\Starter.csproj",
+        "packagesPath": "C:\\Users\\CCI39812\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CCI39812\\Desktop\\Other\\Git Repos\\sample-data-and-menu-selection-loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\CCI39812\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,30 +48,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
